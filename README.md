@@ -1,0 +1,1 @@
+XSS-Sentinel is a Burp Suite extension built to assist security researchers and penetration testers in identifying Cross-Site Scripting (XSS) vulnerabilities within web applications. It automates the process of injecting payloads and analyzing responses for potential XSS vectors, helping streamline the security testing workflow.
